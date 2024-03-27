@@ -1,16 +1,11 @@
 # image_generator_app
 
-A new Flutter project.
+This application generates images based on the prompt you have given. Here, Midjourney API is used to achieve the desired result.
 
-## Getting Started
+## How to Use the Application
+Just get the API key from Imagine platform - https://www.imagine.art/
 
-This project is a starting point for a Flutter application.
+Put the API Key in the prompt_repo.dart
 
-A few resources to get you started if this is your first Flutter project:
+Run the application like any normal Flutter application.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
